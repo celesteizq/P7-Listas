@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+	background-color: lightgray;
+}
+
+ul.a {
+	list-style-type: circle;
+}
+
+ol.b{
+	list-style-type: upper-roman;
+}
+
+ol.c{
+	list-style-type: lower-alpha;
+}
